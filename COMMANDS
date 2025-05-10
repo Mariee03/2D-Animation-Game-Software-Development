@@ -1,0 +1,18 @@
+----------------Controls----------------
+Player 1 (Left):
+create worker: 'q'
+create swordsman: 'w'
+create archer: 'e'
+send worker to mine: 'a'
+send worker to wall: 's'
+release units: 'z'
+skip turn: left_shift
+
+Player 2 (Right):
+create worker: 'p'
+create swordsman: 'o'
+create archer: 'i'
+send worker to mine: 'l'
+send worker to wall: 'k'
+release units: 'm'
+skip turn: right_shift
